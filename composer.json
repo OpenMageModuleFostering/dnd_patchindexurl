@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Dnd_Patchindexurl",
+    "name": "OpenMageModuleFostering\/Dnd_Patchindexurl",
     "type": "magento-module",
     "license": "Extension-license-name-(OSL-v3.0)",
     "homepage": "",
     "description": "Patch Index Url",
     "authors": [
-    {
-        "name": "Agence Dn'D",
-        "email": "agencednd@gmail.com"
-    }
-],
+        {
+            "name": "Agence Dn'D",
+            "email": "agencednd@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
